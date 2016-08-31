@@ -32,6 +32,7 @@
   "homepage": "https://github.com/rickharrison/broccoli-asset-rev",
   "dependencies": {
     "broccoli-asset-rewrite": "^1.0.9",
+    "broccoli-filter": "^1.2.2",
     "broccoli-persistent-filter": "git://github.com/elucid/broccoli-persistent-filter#e73fb449e64f27384656d7abe827d3a68839067d",
     "json-stable-stringify": "^1.0.0",
     "matcher-collection": "^1.0.1",
